@@ -1,0 +1,51 @@
+id,idade,renda,cidade,categoria,nota,feedback
+1,30,1200,Sao Paulo,A,8.5,Bom
+2,45,2500,Rio de Janeiro,B,7.0,Regular
+3,29,1200,Belo Horizonte,A,5.5,Bom
+4,55,3000,Salvador,B,,Ruim
+5,40,2100,Sao Paulo,A,9.0,Bom
+6,23,900,,B,7.5,Ruim
+7,35,1800,Rio de Janeiro,B,6.8,Regular
+8,38,2500,Belo Horizonte,A,8.2,Bom
+9,29,1500,Salvador,B,7.1,Regular
+10,50,2800,Sao Paulo,A,8.7,Bom
+11,40,1500,Sao Paulo,A,9.2,Bom
+12,46,2900,Rio de Janeiro,B,6.0,Regular
+13,50,3000,Salvador,A,6.5,Ruim
+14,31,2300,Belo Horizonte,B,8.0,Bom
+15,,2100,Sao Paulo,A,7.8,Bom
+16,27,1200,,B,5.4,Regular
+17,36,1850,Rio de Janeiro,A,8.9,Bom
+18,41,2500,Salvador,B,7.7,Ruim
+19,39,2700,Belo Horizonte,A,6.2,Bom
+20,28,1600,Sao Paulo,B,,Regular
+21,22,950,Rio de Janeiro,A,4.8,Ruim
+22,55,4500,Salvador,A,9.5,Bom
+23,47,3500,Belo Horizonte,B,7.3,Regular
+24,60,5800,Sao Paulo,A,9.1,Bom
+25,34,2200,Rio de Janeiro,B,6.9,Ruim
+26,28,1200,,A,5.0,Bom
+27,25,980,Sao Paulo,B,7.2,Regular
+28,58,6000,Salvador,A,8.3,Bom
+29,32,2500,Belo Horizonte,B,7.6,Bom
+30,40,,Sao Paulo,A,7.1,Regular
+31,39,2800,Rio de Janeiro,B,6.0,Ruim
+32,53,2100,Belo Horizonte,A,9.4,Bom
+33,24,1000,Sao Paulo,B,4.3,Regular
+34,28,1400,Rio de Janeiro,A,,Bom
+35,37,1800,Salvador,B,7.8,Regular
+36,,2300,Sao Paulo,B,6.7,Ruim
+37,43,2000,Belo Horizonte,A,8.2,Bom
+38,59,3400,Rio de Janeiro,B,6.5,Regular
+39,26,1050,,A,5.9,Ruim
+40,42,1900,Sao Paulo,B,8.0,Bom
+41,33,2200,Rio de Janeiro,A,7.7,Regular
+42,52,3100,Salvador,B,8.8,Ruim
+43,28,1500,Belo Horizonte,A,9.3,Bom
+44,45,3000,,B,6.3,Regular
+45,20,980,Sao Paulo,A,5.4,Bom
+46,38,2000,Rio de Janeiro,B,6.9,Ruim
+47,49,3600,Belo Horizonte,A,8.5,Bom
+48,28,1500,Salvador,B,7.2,Regular
+49,36,1800,Sao Paulo,A,8.1,Bom
+50,41,2200,Rio de Janeiro,B,7.6,Ruim
